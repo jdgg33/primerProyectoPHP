@@ -32,4 +32,6 @@ echo("Hola Mundo ");
 print("<br>"); //salto de linea
 echo("Mi nombre es ".$nombre."tengo ".$edad." años de edad"); //para concatenar se usa el punto .
 
+$costo=5
+
 ?>
